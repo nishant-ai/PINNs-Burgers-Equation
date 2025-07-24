@@ -423,12 +423,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] **Real-time inference** capabilities
 - [ ] **Transfer learning** between different PDEs
 
-## 📞 Contact
-
-- **GitHub Issues**: For technical questions and bugs
-- **Discussions**: For general questions and ideas
-- **Email**: [your.email@domain.com](mailto:your.email@domain.com)
-
 ---
 
 **⭐ If this repository helped you, please give it a star! ⭐**
